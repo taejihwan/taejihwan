@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
  <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Jihwan's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=JiHwan's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Jihwan's GitHub">
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
          <a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a>
          <a href=https://www.instagram.com/인스타그램 아이디> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/인 스 타 아 이 디"> </a>
-         <a href=mailto:taejihwan@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:taejihwan@naver.com"> </a>
+         <a href=mailto:jhtae0226@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhtae0226@gmail.com"> </a>
           </div><br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
